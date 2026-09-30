@@ -1,4 +1,4 @@
-# excel-sales-analytics-dashboard
+# excel-sales-analytics-dataset
 An interactive sales dashboard created using Microsoft Excel to analyze sales performance and business insights.
 ## tools Used
 -Microsoft Excel
